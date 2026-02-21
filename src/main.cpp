@@ -1,10 +1,11 @@
-#include "app_api.h" // only needed with flash breakpoints
-#include "avr8-stub.h"
 #include <Arduino.h>
 #include <SerLCD.h> //Click here to get the library: http://librarymanager/All#SparkFun_SerLCD
 #include <Servo.h>
 #include <Wire.h>
 #include <stdio.h>
+
+#include "app_api.h" // only needed with flash breakpoints
+#include "avr8-stub.h"
 
 SerLCD lcd; // Initialize the library with default I2C address 0x72
 
