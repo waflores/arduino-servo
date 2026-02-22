@@ -1,0 +1,9 @@
+CompileFlags:
+  Remove:
+    - -mmcu
+Diagnostics:
+  Suppress:
+    - drv_unsupported_opt_for_target
+  Includes:
+    IgnoreHeader:
+      - .*Arduino.h.*
