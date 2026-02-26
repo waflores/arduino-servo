@@ -47,3 +47,6 @@ compile_commands.json
 
 # debug information files
 *.dwo
+
+# Bazel sub folders
+bazel-*

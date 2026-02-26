@@ -39,6 +39,6 @@ bazel_dep(name = "bazelrc-preset.bzl", version = "1.9.2")
 bazel_dep(name = "platformio_rules")
 git_override(
     module_name = "platformio_rules",
-    commit = "92a2982bad63557f0664211e726a89740b8d2ee1",
+    commit = "1d619d882fcc33ab14a16fd8e53ed62b72b87af5",
     remote = "https://github.com/waflores/platformio_rules.git",
 )

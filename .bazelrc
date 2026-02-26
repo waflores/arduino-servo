@@ -1,0 +1,2 @@
+# Required to build with Python version in platformio_rules
+build --@@rules_python+//python/config_settings:python_version="3.14"
