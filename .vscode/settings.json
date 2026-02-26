@@ -1,16 +1,16 @@
 {
     "workbench.colorCustomizations": {
-        "activityBar.background": "#590B3A",
-        "titleBar.activeBackground": "#7C0F52",
-        "titleBar.activeForeground": "#FFFCFD",
-        "titleBar.inactiveBackground": "#590B3A",
-        "titleBar.inactiveForeground": "#FFFCFD",
-        "statusBar.background": "#590B3A",
-        "statusBar.foreground": "#FFFCFD",
-        "statusBar.debuggingBackground": "#590B3A",
-        "statusBar.debuggingForeground": "#FFFCFD",
-        "statusBar.noFolderBackground": "#590B3A",
-        "statusBar.noFolderForeground": "#FFFCFD"
+        "activityBar.background": "#464F0E",
+        "titleBar.activeBackground": "#626F13",
+        "titleBar.activeForeground": "#F9FBEA",
+        "titleBar.inactiveBackground": "#464F0E",
+        "titleBar.inactiveForeground": "#F9FBEA",
+        "statusBar.background": "#464F0E",
+        "statusBar.foreground": "#F9FBEA",
+        "statusBar.debuggingBackground": "#464F0E",
+        "statusBar.debuggingForeground": "#F9FBEA",
+        "statusBar.noFolderBackground": "#464F0E",
+        "statusBar.noFolderForeground": "#F9FBEA"
     },
     "python-envs.pythonProjects": []
 }
