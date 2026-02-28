@@ -37,8 +37,13 @@ bazel_dep(name = "bazelrc-preset.bzl", version = "1.9.2")
 
 # https://github.com/mum4k/platformio_rules.git
 bazel_dep(name = "platformio_rules")
-git_override(
+# git_override(
+#     module_name = "platformio_rules",
+#     commit = "1d619d882fcc33ab14a16fd8e53ed62b72b87af5",
+#     remote = "https://github.com/waflores/platformio_rules.git",
+# )
+
+local_path_override(
     module_name = "platformio_rules",
-    commit = "1d619d882fcc33ab14a16fd8e53ed62b72b87af5",
-    remote = "https://github.com/waflores/platformio_rules.git",
+    path = r"C:\Users\Will\PycharmProjects\Bazel\platformio_rules",
 )
